@@ -1,0 +1,14 @@
+{
+  "name": "slack-emoji-sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yaml": "^1.6.0"
+  }
+}
